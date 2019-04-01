@@ -1,3 +1,19 @@
 {
-  "username": "bgteste",
-  "password": "testando123"}
+  "users": [
+    {
+      "id": 1,
+      "username": "userteste1",
+      "password": "senhauser1"
+    },
+    {
+      "id": 2,
+      "username": "userteste2",
+      "password": "senhauser2"
+    },
+    {
+      "id": 3,
+      "username": "userteste3",
+      "password": "senhauser3"
+    }
+  ]
+}
